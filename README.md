@@ -1,3 +1,3 @@
-# OperatingSytemsF15
+# OS F15 C-Programming Review and System Programming
 
-This is class the repository.  Various exercises and project related material will be posted here.
+
