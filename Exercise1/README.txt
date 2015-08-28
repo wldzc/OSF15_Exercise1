@@ -26,6 +26,10 @@ write <matrix_binary_file>
 random <matrix_name> <start_range> <end_range>
 create <matrix_name> <row_size> <col_size>
 
+matlab usage:
+
+The command line driven program does matrix creation, reading, writing, and other miscellaneous operations. The program automatically creates a matrix and writes that out called temp_mat (in binary do not use the cat command on it). You are able to display any matrix by using the display command. You can create a new blank matrix with the command create. To fill a matrix with random values use the random command between a range of values. To get some experience with bit shifting there is a command called shift. If you want to write and read in a matrix from the filesystem use the respective read and write commands. To see memory operations in action use the duplicate and equal commands. The others commands are sum and add. To exit the program use the exit command.
+
 
 What you need to do for this assignment
 --------------------------------------
