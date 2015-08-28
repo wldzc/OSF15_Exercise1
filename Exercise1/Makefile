@@ -15,5 +15,5 @@ command.o: command.c command.h
 matrix.o: matrix.c matrix.h
 	gcc matrix.c $(CFLAGS)-c
 
-make clean:
+clean:
 	rm -f *.o matlab temp_mat
